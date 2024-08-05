@@ -20,3 +20,5 @@ This project involves an in-depth analysis of hotel booking cancellations using 
    - Month-wise Cancellation Trends
    - Comparison of Cancellation Rates by Hotel Type
 4. **Interactive Dashboard**
+   ![Dashboard](https://github.com/user-attachments/assets/d44def70-e0a6-4f2f-b43d-2689ffc86dc9)
+
