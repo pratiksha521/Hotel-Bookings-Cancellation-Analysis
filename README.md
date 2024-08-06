@@ -1,7 +1,6 @@
 # Hotel Bookings Cancellation Data Analysis
 
 This project involves an in-depth analysis of hotel booking cancellations using Excel.
-### Understanding the Business Problem
 
 - **Objective**: Analyze the reasons behind booking cancellations and identify patterns to help hotels reduce cancellation rates.
 
@@ -40,8 +39,9 @@ This project involves an in-depth analysis of hotel booking cancellations using 
 
 ## Insights
 
-- **Room Type**: Certain room types have higher cancellation rates, suggesting potential issues with those specific offerings or pricing strategies.
-- **Room Status**: There is a notable difference in cancellation rates between different room statuses, indicating that certain statuses may be more prone to cancellations.
-- **Monthly Trends**: Cancellations peak during certain months, which could be tied to seasonality or specific events.
-- **Guest Type**: Different guest types show varying cancellation rates, pointing to potential differences in booking behaviors and preferences.
-- **Hotel Type**: Resort Hotels tend to have higher cancellation rates compared to City Hotels, possibly due to the nature of leisure versus business travel.
+- **Total Cancellations**: Out of 119,390 total bookings, 44,224 were cancelled. This indicates a significant cancellation rate that impacts hotel revenue and resource planning.
+- **Room Status**: Desired rooms have the highest number of cancellations, suggesting that high-demand rooms are more likely to be cancelled. This could be due to overbooking or guests changing their preferences last minute.
+- **Guest Type**: Couples lead in both bookings and cancellations. This demographic's cancellation behavior may be influenced by changes in travel plans or personal reasons.
+- **Room Type**: Room type 'A' experiences the most cancellations, likely due to its popularity. Hotels may need to explore policies or incentives to reduce cancellations for this room type.
+- **Monthly Trends**: Cancellations are highest in certain months, such as October and August. This trend may reflect seasonal travel behaviors or specific events impacting hotel stays.
+- **Hotel Type**: Resort Hotels have a higher cancellation rate compared to City Hotels. This could be due to the leisure nature of resort stays, where plans are more flexible and subject to change.
