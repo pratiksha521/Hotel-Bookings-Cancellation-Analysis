@@ -17,6 +17,9 @@ This project involves an in-depth analysis of hotel booking cancellations using 
 1. **Understanding the Business Problem**
 2. **Data Cleaning and Transformation**
 3.  **Pivot Tables and Charts**
+
+### Analysis and Visualization
+
    - **Total Bookings and Cancellations by Room Type**
      - **Pivot Table**: Rows - Room Type, Columns - Cancellation Status, Values - Count of Bookings
      - **Chart**: Bar chart showing the number of total bookings and cancellations for each room type.
