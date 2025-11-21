@@ -47,4 +47,4 @@ This project involves an in-depth analysis of hotel booking cancellations using 
 - **Guest Type**: Couples lead in both bookings and cancellations. This demographic's cancellation behavior may be influenced by changes in travel plans or personal reasons.
 - **Room Type**: Room type 'A' experiences the most cancellations, likely due to its popularity. Hotels may need to explore policies or incentives to reduce cancellations for this room type.
 - **Monthly Trends**: Cancellations are highest in certain months, such as October and August. This trend may reflect seasonal travel behaviors or specific events impacting hotel stays.
-- **Hotel Type**: Resort Hotels have a higher cancellation rate compared to City Hotels. This could be due to the leisure nature of resort stays, where plans are more flexible and subject to change.
+- **Hotel Type**: City Hotels have a higher cancellation rate compared to Resort Hotels.
